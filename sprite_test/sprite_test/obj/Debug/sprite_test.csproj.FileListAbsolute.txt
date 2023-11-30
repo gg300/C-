@@ -1,0 +1,11 @@
+F:\sprite_test\sprite_test\bin\Debug\sprite_test.exe.config
+F:\sprite_test\sprite_test\bin\Debug\sprite_test.exe
+F:\sprite_test\sprite_test\bin\Debug\sprite_test.pdb
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.csproj.AssemblyReference.cache
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.Form1.resources
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.Properties.Resources.resources
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.csproj.GenerateResource.cache
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.csproj.CoreCompileInputs.cache
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.exe
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.pdb
+F:\sprite_test\sprite_test\obj\Debug\sprite_test.Form2.resources

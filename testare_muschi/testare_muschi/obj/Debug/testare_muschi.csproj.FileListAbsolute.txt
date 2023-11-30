@@ -1,0 +1,12 @@
+F:\testare_muschi\testare_muschi\bin\Debug\testare_muschi.exe.config
+F:\testare_muschi\testare_muschi\bin\Debug\testare_muschi.exe
+F:\testare_muschi\testare_muschi\bin\Debug\testare_muschi.pdb
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.csproj.AssemblyReference.cache
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.Form1.resources
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.muschi_anteriori.resources
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.muschi_posteriori.resources
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.Properties.Resources.resources
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.csproj.GenerateResource.cache
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.csproj.CoreCompileInputs.cache
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.exe
+F:\testare_muschi\testare_muschi\obj\Debug\testare_muschi.pdb

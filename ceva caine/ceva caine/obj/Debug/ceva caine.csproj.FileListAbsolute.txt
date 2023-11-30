@@ -1,0 +1,10 @@
+F:\ceva caine\ceva caine\bin\Debug\ceva caine.exe.config
+F:\ceva caine\ceva caine\bin\Debug\ceva caine.exe
+F:\ceva caine\ceva caine\bin\Debug\ceva caine.pdb
+F:\ceva caine\ceva caine\obj\Debug\ceva caine.csproj.AssemblyReference.cache
+F:\ceva caine\ceva caine\obj\Debug\ceva_caine.Form1.resources
+F:\ceva caine\ceva caine\obj\Debug\ceva_caine.Properties.Resources.resources
+F:\ceva caine\ceva caine\obj\Debug\ceva caine.csproj.GenerateResource.cache
+F:\ceva caine\ceva caine\obj\Debug\ceva caine.csproj.CoreCompileInputs.cache
+F:\ceva caine\ceva caine\obj\Debug\ceva caine.exe
+F:\ceva caine\ceva caine\obj\Debug\ceva caine.pdb

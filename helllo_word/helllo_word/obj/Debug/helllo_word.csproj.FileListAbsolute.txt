@@ -1,0 +1,10 @@
+F:\helllo_word\helllo_word\bin\Debug\helllo_word.exe.config
+F:\helllo_word\helllo_word\bin\Debug\helllo_word.exe
+F:\helllo_word\helllo_word\bin\Debug\helllo_word.pdb
+F:\helllo_word\helllo_word\obj\Debug\helllo_word.csproj.AssemblyReference.cache
+F:\helllo_word\helllo_word\obj\Debug\helllo_word.Form1.resources
+F:\helllo_word\helllo_word\obj\Debug\helllo_word.Properties.Resources.resources
+F:\helllo_word\helllo_word\obj\Debug\helllo_word.csproj.GenerateResource.cache
+F:\helllo_word\helllo_word\obj\Debug\helllo_word.csproj.CoreCompileInputs.cache
+F:\helllo_word\helllo_word\obj\Debug\helllo_word.exe
+F:\helllo_word\helllo_word\obj\Debug\helllo_word.pdb

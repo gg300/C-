@@ -1,0 +1,10 @@
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\bin\Debug\galaxia dupa o luna in vaslui.exe.config
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\bin\Debug\galaxia dupa o luna in vaslui.exe
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\bin\Debug\galaxia dupa o luna in vaslui.pdb
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\obj\Debug\galaxia dupa o luna in vaslui.csproj.AssemblyReference.cache
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\obj\Debug\galaxia_dupa_o_luna_in_vaslui.Form1.resources
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\obj\Debug\galaxia_dupa_o_luna_in_vaslui.Properties.Resources.resources
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\obj\Debug\galaxia dupa o luna in vaslui.csproj.GenerateResource.cache
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\obj\Debug\galaxia dupa o luna in vaslui.csproj.CoreCompileInputs.cache
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\obj\Debug\galaxia dupa o luna in vaslui.exe
+F:\galaxia dupa o luna in vaslui\galaxia dupa o luna in vaslui\obj\Debug\galaxia dupa o luna in vaslui.pdb

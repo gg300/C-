@@ -1,0 +1,10 @@
+F:\messenger\messenger\bin\Debug\messenger.exe.config
+F:\messenger\messenger\bin\Debug\messenger.exe
+F:\messenger\messenger\bin\Debug\messenger.pdb
+F:\messenger\messenger\obj\Debug\messenger.csproj.AssemblyReference.cache
+F:\messenger\messenger\obj\Debug\messenger.Form1.resources
+F:\messenger\messenger\obj\Debug\messenger.Properties.Resources.resources
+F:\messenger\messenger\obj\Debug\messenger.csproj.GenerateResource.cache
+F:\messenger\messenger\obj\Debug\messenger.csproj.CoreCompileInputs.cache
+F:\messenger\messenger\obj\Debug\messenger.exe
+F:\messenger\messenger\obj\Debug\messenger.pdb
