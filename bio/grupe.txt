@@ -1,0 +1,17 @@
+Principalele grupe de mușchi sunt: 
+mușchii capului, 
+mușchii gâtului, 
+mușchii cefei și ai spatelui, 
+mușchii abdomenului, 
+mușchii părții anterolaterale a toracelui, 
+mușchii membrelor (superioare și inferioare).
+
+muschi_cap
+muschi_gat
+muschi_ceafa_spate
+muschi_abdomen
+muschi_torace
+muschi_membre_superioare
+muschi_membre_inferioare
+
+https://ro.wikipedia.org/wiki/Sistemul_muscular
