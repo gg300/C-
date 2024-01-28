@@ -9,3 +9,14 @@ E:\github\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Rem
 E:\github\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.csproj.CoreCompileInputs.cache
 E:\github\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.exe
 E:\github\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.pdb
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\bin\Debug\Remember_The_Cards-Atestat.exe.config
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\bin\Debug\Remember_The_Cards-Atestat.exe
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\bin\Debug\Remember_The_Cards-Atestat.pdb
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.csproj.AssemblyReference.cache
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards_Atestat.Form1.resources
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards_Atestat.Properties.Resources.resources
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards_Atestat.Remember_Cards.resources
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.csproj.GenerateResource.cache
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.csproj.CoreCompileInputs.cache
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.exe
+D:\gitrepo\C-\Remember_The_Cards-Atestat\Remember_The_Cards-Atestat\obj\Debug\Remember_The_Cards-Atestat.pdb
