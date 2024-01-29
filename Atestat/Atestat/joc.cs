@@ -27,7 +27,7 @@ namespace Atestat
         /// display initial
         private void joc_Load(object sender, EventArgs e)
         {
-            LoadImages(@"D:\gitrepo\C-\Atestat\assets");
+            LoadImages(@"E:\github\C-\C-\Atestat\assets");
             pictureBox = new PictureBox
             {
                 Name = "pictureBox",
@@ -63,8 +63,7 @@ namespace Atestat
             }
             else
             {
-                pictureBox.Image?.Dispose(); // Dispose the last image
-                pictureBox.Image = null; // Show nothing
+                pictureBox.Dispose(); 
             }
         }
     }

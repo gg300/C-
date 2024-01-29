@@ -9,3 +9,14 @@ D:\gitrepo\C-\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
 D:\gitrepo\C-\Atestat\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
 D:\gitrepo\C-\Atestat\Atestat\obj\Debug\Atestat.exe
 D:\gitrepo\C-\Atestat\Atestat\obj\Debug\Atestat.pdb
+E:\github\C-\C-\Atestat\Atestat\bin\Debug\Atestat.exe.config
+E:\github\C-\C-\Atestat\Atestat\bin\Debug\Atestat.exe
+E:\github\C-\C-\Atestat\Atestat\bin\Debug\Atestat.pdb
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.csproj.AssemblyReference.cache
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.joc.resources
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.exe
+E:\github\C-\C-\Atestat\Atestat\obj\Debug\Atestat.pdb
